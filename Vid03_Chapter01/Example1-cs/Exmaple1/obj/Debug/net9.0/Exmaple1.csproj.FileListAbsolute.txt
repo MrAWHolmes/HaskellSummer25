@@ -1,0 +1,15 @@
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.AssemblyInfoInputs.cache
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.AssemblyInfo.cs
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.csproj.CoreCompileInputs.cache
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.sourcelink.json
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\bin\Debug\net9.0\Exmaple1.exe
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\bin\Debug\net9.0\Exmaple1.deps.json
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\bin\Debug\net9.0\Exmaple1.runtimeconfig.json
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\bin\Debug\net9.0\Exmaple1.dll
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\bin\Debug\net9.0\Exmaple1.pdb
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.dll
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\refint\Exmaple1.dll
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.pdb
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\Exmaple1.genruntimeconfig.cache
+C:\Users\archi\Documents\Haskell\Vid03_Chapter01\Example1-cs\Exmaple1\obj\Debug\net9.0\ref\Exmaple1.dll
